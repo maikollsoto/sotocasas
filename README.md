@@ -1,8 +1,8 @@
 sotocasas
 =========
-   *Maikoll-Home
+   ***Maikoll-Home
    
-   *Maikoll-HP
+   ***Maikoll-HP
    
 =========
 Proyecto de Desarrollo del Software
